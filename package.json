@@ -1,0 +1,30 @@
+{
+  "name": "vs-react-intellisense",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^15.0.1"
+  },
+  "scripts": {
+    "preinstall": "npm i typings -g && typings i react -A -S"
+  },
+  "description": "A blank project to get Intellisense for React in Visual Studio Code",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didierfranc/vs-react-intellisense.git"
+  },
+  "keywords": [
+    "react",
+    "vs",
+    "visual",
+    "studio",
+    "intellisense"
+  ],
+  "author": "Didier Franc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didierfranc/vs-react-intellisense/issues"
+  },
+  "homepage": "https://github.com/didierfranc/vs-react-intellisense#readme"
+}
