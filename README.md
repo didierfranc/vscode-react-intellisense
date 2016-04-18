@@ -1,6 +1,7 @@
 # vs-react-intellisense
 A blank project to get Intellisense for React in Visual Studio Code
 
+![](screenshot.jpg)
 
 ## Guide
 
