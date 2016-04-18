@@ -7,7 +7,7 @@ A blank project to get Intellisense for React **^15.0.0** working easily in Visu
 
 ```
 git clone https://github.com/didierfranc/vs-react-intellisense.git
-npm install
+cd vs* && npm install
 ```
 
 That's it start editing `index.js`
