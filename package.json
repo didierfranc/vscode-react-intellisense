@@ -2,10 +2,11 @@
   "name": "vs-react-intellisense",
   "version": "0.0.1",
   "dependencies": {
-    "react": "^15.0.1"
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
   },
   "scripts": {
-    "preinstall": "npm i typings -g && typings i react -A -S"
+    "preinstall": "npm i typings -g && typings i react react-dom -A -S"
   },
   "description": "A blank project to get Intellisense for React in Visual Studio Code",
   "main": "index.js",
