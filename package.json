@@ -21,7 +21,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/didierfranc/vs-react-intellisense.git"
+    "url": "git+https://github.com/didierfranc/vscode-react-intellisense.git"
   },
   "keywords": [
     "react",
@@ -33,7 +33,7 @@
   "author": "Didier Franc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/didierfranc/vs-react-intellisense/issues"
+    "url": "https://github.com/didierfranc/vscode-react-intellisense/issues"
   },
-  "homepage": "https://github.com/didierfranc/vs-react-intellisense#readme"
+  "homepage": "https://github.com/didierfranc/vscode-react-intellisense#readme"
 }
