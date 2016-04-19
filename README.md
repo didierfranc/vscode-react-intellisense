@@ -10,5 +10,7 @@ git clone https://github.com/didierfranc/vscode-react-intellisense.git
 cd vs* && npm install
 ```
 
-That's it start editing `index.js`
+That's it get your app live with `npm start` and start editing `index.js`.
+
+
 
