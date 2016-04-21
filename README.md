@@ -12,5 +12,12 @@ cd vs* && npm install
 
 That's it get your app live with `npm start` and start editing `index.js`.
 
+## More
 
+If you want to get the best from Visual Studio Code, you have to install that two extensions, press `CMD+P` inside VS Code and type :
+
+```
+ext install ReactSnippets
+ext install JavaScriptSnippets
+```
 
