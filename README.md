@@ -1,5 +1,5 @@
 # vscode-react-intellisense
-A blank project to get Intellisense for React **^15.0.0** working easily in Visual Studio Code **^1.0.0**
+A blank project to get Intellisense for React **^15.0.1** working easily in Visual Studio Code **^1.1.0**
 
 ![](screenshot.jpg)
 
